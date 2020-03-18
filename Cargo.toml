@@ -1,0 +1,8 @@
+[package]
+name = "count_line"
+version = "0.1.0"
+authors = ["Chonli"]
+edition = "2018"
+license-file = "LICENSE"
+
+[dependencies]
